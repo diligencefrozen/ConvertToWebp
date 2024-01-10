@@ -8,7 +8,7 @@ ChangeToWebp is a simple Python application that allows users to easily convert 
 ### Prerequisites
 - Python 3
 - Pillow library
-- Tkinter (usually comes with Python)
+- Tkinter 
 
 ### Setup
 1. Clone the repository or download the source code:<br/>git clone <a href="https://github.com/diligencefrozen/ChangeToWebp.git">https://github.com/diligencefrozen/ChangeToWebp.git</a><br/>
