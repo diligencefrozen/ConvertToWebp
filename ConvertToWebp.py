@@ -26,14 +26,14 @@ def open_file_dialog():
 
 def show_about():
     # Show information about the program and open the GitHub link
-    messagebox.showinfo("About ChangeToWebp", "ChangeToWebp Version 20240110.2\n"
+    messagebox.showinfo("About ConvertToWebp", "ChangeToWebp Version 20240110.3\n"
                                               "Convert your images to WebP format easily.\n\n"
-                                              "GitHub: https://github.com/diligencefrozen/ChangeToWebp")
-    webbrowser.open("https://github.com/diligencefrozen/ChangeToWebp")
+                                              "GitHub: https://github.com/diligencefrozen/ConvertToWebp")
+    webbrowser.open("https://github.com/diligencefrozen/ConvertToWebp")
 
 # Tkinter Window Settings
 root = tk.Tk()
-root.title("ChangeToWebp")
+root.title("ConvertToWebp")
 
 # Title icon settings: Automatically load the icon from the same directory as the script
 script_dir = os.path.dirname(os.path.realpath(__file__))
@@ -48,7 +48,7 @@ frame = tk.Frame(root, padx=20, pady=20)
 frame.pack(padx=10, pady=10)
 
 # Welcome message
-label_welcome = tk.Label(frame, text="Hello, User!\nUpload a file and I will convert it for you.", pady=10)
+label_welcome = tk.Label(frame, text="Hello, User!\nUpload a file and \nI will convert it for you.", pady=10)
 label_welcome.pack()
 
 # Button to select an image
