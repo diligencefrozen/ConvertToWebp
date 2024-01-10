@@ -1,4 +1,4 @@
-# ChangeToWebp
+# ConvertToWebp
 
 ## Overview
 ChangeToWebp is a simple Python application that allows users to easily convert images to the WebP format. 
@@ -11,7 +11,7 @@ ChangeToWebp is a simple Python application that allows users to easily convert 
 - Tkinter 
 
 ### Setup
-1. Clone the repository or download the source code:<br/>git clone <a href="https://github.com/diligencefrozen/ChangeToWebp.git">https://github.com/diligencefrozen/ChangeToWebp.git</a><br/>
+1. Clone the repository or download the source code:<br/>git clone <a href="https://github.com/diligencefrozen/ConvertToWebp.git">https://github.com/diligencefrozen/ConvertToWebp.git</a><br/>
 2. Install the required packages:<br/>
 
 ## Usage
@@ -25,6 +25,6 @@ ChangeToWebp is a simple Python application that allows users to easily convert 
 - Saves the converted images in WebP format.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/diligencefrozen/ChangeToWebp/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/diligencefrozen/ConvertToWebp/issues) if you want to contribute.
 
 
