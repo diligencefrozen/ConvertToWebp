@@ -15,9 +15,6 @@ ChangeToWebp is a simple Python application that allows users to easily convert 
 2. Install the required packages:<br/>
 
 ## Usage
-<img src="https://github.com/diligencefrozen/ChangeToWebp/blob/main/images/readme_01.png?raw=true"><br/>
-***In the case of a Mac, select the script and run the program using Python launcher.***<br/>
-<img src="https://github.com/diligencefrozen/ChangeToWebp/blob/main/images/readme_02.png?raw=true"><br/>
 1. Run the script:
 2. Click on 'Select an image' to choose an image file.
 3. Select a location to save the converted WebP file.
