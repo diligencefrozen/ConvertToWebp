@@ -37,7 +37,7 @@ root.title("ConvertToWebp")
 
 # Title icon settings: Automatically load the icon from the same directory as the script
 script_dir = os.path.dirname(os.path.realpath(__file__))
-icon_path = os.path.join(script_dir, "ChangeToWebp.ico")
+icon_path = os.path.join(script_dir, "ConvertToWebp.ico")
 root.iconbitmap(icon_path)
 
 # Window size settings
