@@ -11,8 +11,7 @@ ChangeToWebp is a simple Python application that allows users to easily convert 
 - Tkinter 
 
 ### Setup
-1. Clone the repository or download the source code:<br/>git clone <a href="https://github.com/diligencefrozen/ConvertToWebp.git">https://github.com/diligencefrozen/ConvertToWebp.git</a><br/>
-2. Install the required packages:<br/>
+1. Install the required packages:<br/>
 
 ## Usage
 1. Run the script:
